@@ -1,3 +1,3 @@
-from solution import sol49189
+from solution import sol43105 as sol
 
-print(sol49189.solution(6, [[3, 6], [4, 3], [3, 2], [1, 3], [1, 2], [2, 4], [5, 2]]))
+print(sol.solution([[7], [3, 8], [8, 1, 0], [2, 7, 4, 4], [4, 5, 2, 6, 5]]))
